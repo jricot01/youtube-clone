@@ -1,0 +1,141 @@
+.tahoma-font {
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.big-line {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+
+.sales {
+  font-family: Arial;
+  color: red;
+  font-style: italic;
+  margin-top: 5px;
+  font-size: 24px;
+}
+
+.html-line {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+
+.begin-line {
+  font-family: verdana;
+  font-size: 22px;
+  color: gray;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.course-description {
+  font-family: verdana;
+  font-size: 22px;
+  width: 400px;
+  margin-top: 15px;
+}
+
+.get-started {
+  font-family: verdana;
+  font-size: 19px;
+  padding-left: 23px;
+  padding-right: 23px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 0px;
+}
+
+.shopping {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+}
+
+.apple-at-work {
+  font-family: Arial;
+  font-size: 25px;
+  text-align: center;
+}
+
+.learn-more {
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
+  color: rgb(21, 50, 128);
+  font-weight: 520px;
+  margin-bottom: 0;
+}
+
+.free {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.free-social {
+  font-weight: lighter;
+  color: grey;
+}
+
+.free-text {
+  font-family: Arial;
+  font-size: 20px;
+  width: 700px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.free-description {
+  font-family: Arial;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.chp {
+  color: rgb(26, 129, 212);
+}
+
+.current-stock {
+  font-family: Arial;
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+.usd {
+  font-size: 20px;
+  color: grey;
+}
+
+.stock-adjustment {
+  font-family: Arial;
+  font-size: 20px;
+  color: green;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.after-hours {
+  font-family: Arial;
+  font-size: 20px;
+  color: grey;
+  margin-top: 10px;
+}
+
+.after-hours-price {
+  color: red;
+}

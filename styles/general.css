@@ -1,0 +1,39 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 95px;
+  padding-right: 50px;
+  background-color: #21252907;
+}
+
+::-webkit-scrollbar {
+  width: 9px;
+}
+
+::-webkit-scrollbar-track {
+  margin-block: 0.2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgb(100, 100, 100);
+  border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(143, 143, 143);
+  border-radius: 100vw;
+}
+
+.divider {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-style: solid;
+  border-width: 2px;
+  margin: 40px 0px 0px 0px;
+  border-color: rgba(0, 0, 0, 0.1);
+}
